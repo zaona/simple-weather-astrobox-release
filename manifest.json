@@ -1,0 +1,43 @@
+{
+  "item": {
+    "name": "简明天气",
+    "description": "适用于Vela的长期天气存储快应用",
+    "preview": [
+      "preview.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/zaona/simple-weather",
+    "author": [
+      {
+        "name": "Zaona",
+        "author_url": "https://github.com/zaona"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.0.0",
+      "file_name": "com.application.zaona.weather.release.1.0.0.rpk"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "com.application.zaona.weather.release.1.0.0.rpk"
+    },
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "com.application.zaona.weather.release.1.0.0.rpk"
+    },
+    "o66nfc": {
+      "version": "1.0.0",
+      "file_name": "com.application.zaona.weather.release.1.0.0.rpk"
+    },
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "com.application.zaona.weather.release.1.0.0.rpk"
+    },
+    "o65m": {
+      "version": "1.0.0",
+      "file_name": "com.application.zaona.weather.release.1.0.0.rpk"
+    }
+  }
+}
