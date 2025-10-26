@@ -20,32 +20,40 @@
   },
   "downloads": {
     "n66": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     },
     "n67": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     },
     "o66": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     },
     "o66nfc": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
+    },
+    "o62": {
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
+    },
+    "o62m": {
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     },
     "o65": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     },
     "o65m": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     },
     "p65": {
-      "version": "1.6.1",
-      "file_name": "com.application.zaona.weather.release.1.6.1.rpk"
+      "version": "1.7.1",
+      "file_name": "com.application.zaona.weather.release.1.7.1.rpk"
     }
   }
 }
