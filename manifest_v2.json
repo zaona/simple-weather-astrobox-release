@@ -1,7 +1,9 @@
 {
   "item": {
+    "id": "com.application.zaona.weather",
+    "restype": "quick_app",
     "name": "简明天气",
-    "description": "适用于Vela的长期天气存储快应用（QQ交流群947038648）",
+    "description": "适用于Vela的长期天气存储快应用",
     "preview": [
       "preview.png",
       "preview2.png",
@@ -10,54 +12,67 @@
       "preview5.png"
     ],
     "icon": "icon.png",
-    "source_url": "https://github.com/zaona/simple-weather",
+    "cover": "preview.png",
     "author": [
       {
-        "name": "Zaona",
-        "author_url": "https://github.com/zaona"
+        "name": "zaona",
+        "bindABAccount": true
       }
     ]
   },
+  "links": [
+    {
+      "icon": "house",
+      "title": "官网",
+      "url": "https://weather.zaona.top/"
+    },
+    {
+      "icon": "chat-circle",
+      "title": "QQ交流群",
+      "url": "https://qm.qq.com/q/TsVqgf2OQY"
+    }
+  ],
   "downloads": {
-    "n66": {
+    "xmb9": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "n67": {
+    "xmb9p": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "o66": {
+    "xmb10": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "o66nfc": {
+    "xmb10nfc": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "n62": {
+    "xmws3": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "o62": {
+    "xmws4": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "o62m": {
+    "xmws4xring": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "o65": {
+    "xmrw5": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "o65m": {
+    "xmrw5xring": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     },
-    "p65": {
+    "xmrw6": {
       "version": "1.8.6",
       "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
     }
-  }
+  },
+  "ext": {}
 }
