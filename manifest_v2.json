@@ -10,7 +10,8 @@
       "preview3.png",
       "preview4.png",
       "preview5.png",
-      "preview6.png"
+      "preview6.png",
+      "preview7.png"
     ],
     "icon": "icon.png",
     "cover": "preview.png",
@@ -35,44 +36,44 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmb9p": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmb10": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmb10nfc": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmws3": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmws4": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmws4xring": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmrw5": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmrw5xring": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     },
     "xmrw6": {
-      "version": "1.8.6",
-      "file_name": "com.application.zaona.weather.release.1.8.6.rpk"
+      "version": "2.0.7",
+      "file_name": "com.application.zaona.weather.release.2.0.7.rpk"
     }
   },
   "ext": {}
